@@ -1,18 +1,14 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=venom&&color=auto&text=I'm%20Yu%20Jeong)
 
-<!--
-**yujeong0411/yujeong0411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Yujeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujeong0411&show_icons=true&theme=bear)
 
-Here are some ideas to get you started:
+---
+## Career
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Blog
 
-![Yujeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujeong0411&theme=dracula_icons=true)
+## Stack
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujeong0411&layout=compact)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=choiyujeong0411)](https://solved.ac/choiyujeong0411/)
+
+---
