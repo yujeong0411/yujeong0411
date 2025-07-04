@@ -6,6 +6,7 @@
 ## Career
 
 ## Blog
+https://yujeong0411.github.io/
 
 ## Stack
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujeong0411&layout=compact)
