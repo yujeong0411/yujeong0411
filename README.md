@@ -41,7 +41,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PyQt5](https://img.shields.io/badge/PyQt-41CD52?style=flat&logo=qt&logoColor=white)
 
 #### Backend & Database
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -50,6 +49,7 @@
 #### AI/ML
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=flat&logoColor=white)
 
 #### Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -103,10 +103,14 @@
 
 ---
 
-<p align="center">
-  <em>"실무 경험을 바탕으로 의미 있는 기술을 만드는 개발자"</em>
-</p>
+## 💼 Education & Training
+
+- **2024.07 - 2025.06** | 삼성청년 SW·AI 아카데미 (SSAFY) 12기  
+  - Full-stack 개발 및 AI/ML 프로젝트 경험  
+  - React, TypeScript, Vue.js, Python, LLM/RAG 등 실무형 기술 습득
+
+---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:4c6ef5,100:748ffc"/>
+  <em>"실무 경험을 바탕으로 의미 있는 기술을 만드는 개발자"</em>
 </p>
