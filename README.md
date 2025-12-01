@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=I'm%20Yu%20Jeong&fontSize=40&fontAlignY=35&desc=Developer%20and%20Data%20Analyst%20|%20Problem%20Solver&descAlignY=55&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Choi%20Yu%20Jeong&fontSize=40&fontAlignY=35&desc=Developer%20and%20Data%20Analyst%20|%20Problem%20Solver&descAlignY=55&descAlign=50)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yujeong0411&style=flat-square&color=blue" alt="profile views"/>
@@ -68,7 +68,7 @@
 - **Context Precision 96.5%** 달성, 전문의 평가 "실제 활용 가능" 수준 인정  
 - **Tech**: Python, LangChain, Pinecone, OpenAI GPT-4  
 
-#### 🚑 [Safe Connect](https://github.com/yujeong0411/safe_connect) - 통합 응급의료 플랫폼 
+#### 🚑 [Safe Connect](https://github.com/yujeong0411/Safe-Connect) - 통합 응급의료 플랫폼 
 - **WebRTC 기반** 119 영상통화 시스템, 연결 성공률 95% 달성  
 - **의료진 5명** 대상 통합 플랫폼으로 6주 개발 완료  
 - **Tech**: React, TypeScript, WebRTC  
