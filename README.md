@@ -38,6 +38,7 @@ structuring service logic, and exploring practical MVP options under constraints
 ## Projects
 
 ### 🏥 DR.NAVI — AI-based Medical Department Recommendation
+[GitHub Repository →](https://github.com/yujeong0411/Dr.Navi) <br/>
 
 **Role :** Product Planner / Developer  
 
@@ -58,6 +59,7 @@ Patients struggle to choose the right medical department based on their symptoms
 ﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘
 
 ### 🚑 Safe Connect — Emergency Medical Communication Platform
+[GitHub Repository →](https://github.com/yujeong0411/Safe-Connect) <br/>
 
 **Role :** Service Planner / Frontend Developer  
 
@@ -79,6 +81,7 @@ Emergency medical communication and data are fragmented across multiple services
 ﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘
 
 ### 🌏 Hidden Jeju — Hackathon Project (Goormthon)
+[GitHub Repository →](https://github.com/16th-9oormthon-icrowd) <br/>
 
 **Role :** Service Planner  
 
