@@ -9,7 +9,7 @@ with hands-on development experience
 
 ## Summary
 
-Problem-driven product planner with a healthcare background.
+Problem-driven project planner with a healthcare background.
 
 I started my career as a nurse and spent 5 years in clinical environments,
 where I learned how real-world systems often fail users.
