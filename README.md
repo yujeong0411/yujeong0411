@@ -7,22 +7,6 @@ with hands-on development experience
 
 ---
 
-## Summary
-
-Problem-driven project planner with a healthcare background.
-
-I started my career as a nurse and spent 5 years in clinical environments,
-where I learned how real-world systems often fail users.
-To better design solutions that are both well-planned and realistically implementable,
-I began learning software, data, and AI development.
-
-I focus on defining problems clearly,
-structuring service logic, and exploring practical MVP options under constraints.
-
-<br/>
-
----
-
 ## What I Focus On
 
 - 🧠 Problem definition grounded in real domain pain points  
@@ -124,17 +108,6 @@ Travelers are increasingly interested in local experiences, but face high search
 - **Data & AI:** RAG-based services, LLM evaluation  
 - **Development:** Python, React, TypeScript  
 - **Tools:** Git, Figma, Jira  
-
-<br/>
-
----
-
-## Interests
-
-- Healthcare innovation  
-- Data-driven service design  
-- AI-assisted decision systems  
-- Public safety & emergency services
 
 <br/>
 
