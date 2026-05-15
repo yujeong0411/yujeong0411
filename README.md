@@ -18,7 +18,7 @@ OR-Tools CP-SAT 솔버를 활용해 21종 근무·휴무 코드, 20여 개 하�
 6개 소프트 목적함수를 설계했고, 간호사 신청 화면과 관리자 대시보드,
 엑셀 내보내기까지 풀스택으로 구현했습니다.
 - Tech: Python, FastAPI, OR-Tools, React, Supabase
-- Repo: (링크)
+- Repo: https://github.com/yujeong0411/NurseScheduler
 
 ### Dr.Navi — RAG 기반 진료과 추천 서비스
 증상에 맞는 진료과를 찾기 어려운 사용자를 돕는 의료 챗봇.
